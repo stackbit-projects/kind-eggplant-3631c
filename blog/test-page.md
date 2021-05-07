@@ -11,6 +11,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+author: _data/authors/jane-doe.yaml
 ---
 ## Lorem ipsum
 
