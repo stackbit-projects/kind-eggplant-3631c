@@ -1,7 +1,6 @@
 ---
 title: Test one
 date: '2021-05-07'
-excerpt: lorem-ipsum
 image_alt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 seo:
